@@ -8,6 +8,6 @@ namespace StudentsAndTeacher
 {
     interface IObserver
     {
-        bool Update();
+        void Update();
     }
 }
